@@ -249,10 +249,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw0603560rfktabc/rezistory-smd/vishay/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ed708ed-aac4-4d1e-bb42-9de2abab1563")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/105e34ab-814e-405a-9dbc-afdf0c9ad0fe")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -462,10 +475,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw0603560rfktabc/rezistory-smd/vishay/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ce87f65-b9eb-4404-aeca-a796d181f748")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7e67315d-ba85-434c-ac72-f57486572d48")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -676,10 +702,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/15edgrc-3.5_8p/svorkovnice-rozpojovacie/degson-electronics/15edgrc-3-5-08p-14-00a-h/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6973428-884f-41a1-8adf-bfad31938737")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/865c2c89-ec48-406e-9ba8-d5085f4ff258")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 27.06 7.5)
@@ -1070,10 +1109,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ded6203d-7234-4c94-afff-ec052dd926db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8d8aede0-4351-48b8-bbd8-504df9197d13")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -1284,10 +1336,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw06034k70fktabc/rezistory-smd/vishay/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01cf2f27-603f-4cb4-bf60-30687d806cf0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3cde7229-2ae5-4b90-8ccd-c0115d9062af")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -1497,10 +1562,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ced895dd-dfc7-4c48-931b-864d94c5e7a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b373ff00-9106-4a7d-a353-49caffc34d3b")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -1711,10 +1789,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/tcmt1100/optocleny-analogovy-vystup/vishay/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90aa9264-51cb-4ab9-be61-2958750ffe84")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOP*4.4x2.6mm*P1.27mm*")
 		(path "/04deff2c-e5b3-4550-85be-e645f4063e1b")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.31 -1.41)
@@ -2024,10 +2115,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/fyls-0603urc/diody-led-smd-farebne/foryard/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f92b3053-5dd5-40a4-9cd3-a5d1dff0ca1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c88accbb-b6fd-4a45-9a17-cd9e80fa7102")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.485 0.735)
@@ -2259,10 +2363,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/zl262-20sg/konektory-hrebienky/connfly/ds1023-1-20s21/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01905438-f7d5-4578-974e-a983a6a70570")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/6ab6343f-d3c6-4c48-b835-547b6bad46e8")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 -1.33)
@@ -2724,10 +2841,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/cl31a106mohnnne/kondenzatory-mlcc-smd/samsung/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a39a10e4-6eb6-4f5a-8e83-7cbcb042f204")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b78a2a54-b490-4dae-b74d-3e0147f3333c")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -2887,7 +3017,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "560R"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "1d485704-c406-4193-a2c7-c42e43584804")
@@ -2937,10 +3067,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw0603560rfktabc/rezistory-smd/vishay/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "02607c4f-0743-4512-b600-13fcb3835bdf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/449fea9f-36ac-4fc2-b562-0c80ba541d93")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -3150,10 +3293,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/bc817-40w-dio/tranzistory-npn-smd/diotec-semiconductor/bc817-40w/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da7d9b76-dbcf-443e-a520-df8c3c658d72")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/61e0b365-a5cb-4734-9b2f-7a9fbc463130")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 1.56)
@@ -3418,10 +3574,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/tcmt1100/optocleny-analogovy-vystup/vishay/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d78deba9-8a63-4cf7-b03e-4119339543e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOP*4.4x2.6mm*P1.27mm*")
 		(path "/892fcd94-6ad3-4f0b-8863-0dc14ce3f767")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.31 -1.41)
@@ -3731,10 +3900,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d6ed5050-d535-4c58-9030-9dd5a7a1b14a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/52d67936-51fa-44b8-b0bd-2ba7562a9748")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -3944,10 +4126,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d915b2c-7760-45a5-b468-bc6e5981c208")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/6493322a-331d-44dd-bb5d-10524d6778fb")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -4108,7 +4303,7 @@
 				)
 			)
 		)
-		(property "Value" "T1A"
+		(property "Value" "PTF78"
 			(at 13 6 0)
 			(layer "F.Fab")
 			(uuid "28887b93-fced-4334-ad5b-5c3b21b7cd3f")
@@ -4158,10 +4353,36 @@
 				)
 			)
 		)
+		(property "Fuse" "T1AL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba63ccf5-ebf8-41df-af33-069c3adcf016")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TME" "https://www.tme.eu/sk/details/zhl78/poistkove-puzdra-pcb/stelvio-kontek/ptf-78/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4d37198-2a31-47dc-9eeb-431bbee77f23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "*Fuse*")
 		(path "/b054d067-c910-40ec-867a-515e8e4fd555")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 22.6 4.8)
@@ -4613,10 +4834,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04b642f6-c941-4c4e-aa6a-69e365fce636")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/98a907e6-e768-4bbc-ba20-f797398b7c76")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -4827,9 +5061,22 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/5-103639-3/signalove-konektory-raster-2-54mm/te-connectivity/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab93d1a4-aefb-4ca3-82ca-f0814e19789d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ddab4594-d2ab-4441-a251-9703c811ce81")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.54 6.35)
@@ -5135,10 +5382,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5f59108c-1681-4c63-8e08-7ef62c9285d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/cfaa8b29-1d82-46e7-af23-44896f6a3c0d")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -5343,9 +5603,22 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/sc1631/raspberry-pi-minicomputers/raspberry-pi/raspberry-pi-pico-2/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "273f7a1b-bab8-481a-a05a-d2954bb62447")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/934da2b7-20fd-424a-90d5-e7a7c3ee8473")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 10.5 -25.5)
@@ -5948,7 +6221,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "4k7"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "a36d5886-1be9-476f-8cd9-6bd0f4a4c307")
@@ -5998,10 +6271,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw06034k70fktabc/rezistory-smd/vishay/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "364a4126-ef35-4036-b9d6-de77687f7f5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/eee03884-01ae-4e84-9f4b-90372b7dd43d")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -6211,10 +6497,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5e951d5-39e1-4336-ae28-f499294600fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7791c4ba-f5db-4cb1-8f4e-22dea857d6b8")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -6427,10 +6726,23 @@
 				)
 			)
 		)
+		(property "TME" "----"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5312c899-d195-4e0f-b5f5-e0bd1561818d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/fed80f97-6a19-40a3-9ed9-5cb96f894377")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -6540,10 +6852,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/ns25-w2p/signalove-konektory-raster-2-54mm/ninigi/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2518967e-8b5f-4744-9fe2-7fd5da057f9d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/f45bff91-f2d9-4917-8964-e43bf86f134e")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.92 -3.03)
@@ -6948,10 +7273,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "81999f9d-969b-4100-97a8-ad214f624486")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/0fa24012-75f5-439c-91ea-e02f019a3eba")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -7161,10 +7499,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9fa8d89a-2943-40ff-b748-490709a39243")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b29523b2-fb0e-46f7-af47-67cdc54b4226")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -7374,10 +7725,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/cl10x106mo8nrnc/kondenzatory-mlcc-smd/samsung/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff9c4d00-365f-4282-87e4-3e9b8bf5123e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/951ca971-a191-4cc8-a7ba-15abd1a19823")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -7588,10 +7952,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/g5v1-5/elektromagneticke-rele-miniaturne/omron-electronic-components/g5v-1-5vdc/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cfd88382-236b-42e0-a50c-2df9d286aa12")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Relay*SPDT*Omron*G5V?1*")
 		(path "/a6778789-3693-45b8-ba52-2722758c0d89")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.4 11.4)
@@ -7914,7 +8291,7 @@
 				)
 			)
 		)
-		(property "Value" "Fuse_Small"
+		(property "Value" "PTF78"
 			(at 13 6 0)
 			(layer "F.Fab")
 			(uuid "68cf5694-ae86-4528-85df-89bc78dc4b9c")
@@ -7964,10 +8341,36 @@
 				)
 			)
 		)
+		(property "Fuse" "T1AL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d29d7b6-8cf0-4d07-8af7-9db1b6de1174")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TME" "https://www.tme.eu/sk/details/zhl78/poistkove-puzdra-pcb/stelvio-kontek/ptf-78/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "875322e4-6621-4058-88c9-779699476817")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "*Fuse*")
 		(path "/e86b5914-edf6-4adb-82ad-5067dc298442")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0 -4.8)
@@ -8420,9 +8823,22 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/5-103639-3/signalove-konektory-raster-2-54mm/te-connectivity/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92778137-f90a-4a52-bde4-bf9a8b3ac74b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/0406c357-8ffe-4aef-abd1-081af4024e5e")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.54 6.35)
@@ -8729,10 +9145,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw0603560rfktabc/rezistory-smd/vishay/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b57a99ba-9eb4-4ec6-a024-4979a640356b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/eccb4b01-85b9-4bc4-9634-a5679c85c21e")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -8942,10 +9371,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw06034k70fktabc/rezistory-smd/vishay/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64f0504e-42c9-482a-b653-63b5aa4951fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/961ee428-786e-4c19-9b15-c607e71bc2df")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -9105,7 +9547,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4k7"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "a7f1719e-e28c-4fd2-b9ca-e51c33586b6c")
@@ -9155,10 +9597,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw06034k70fktabc/rezistory-smd/vishay/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef5cc74e-89c6-4530-ba1f-17cc20e20adf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1cc999d7-6165-4974-b473-ecae05259e6c")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -9368,10 +9823,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ebec52b-0d31-4ebc-81dd-a81ee798d7f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ad0ca05f-29be-4bc7-aa3e-3e3ebb70c511")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -9582,10 +10050,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/bzv55b4v3-l1g/zenerove-diody-smd/taiwan-semiconductor/bzv55b4v3-l1g/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9eb3946c-8673-450a-85f7-cb7cc6a48c77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D*MiniMELF*")
 		(path "/143f7592-d46e-4238-bac0-60c9f2419035")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.66 -1.11)
@@ -9877,10 +10358,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4f004db-de42-46f8-816e-cfcadf592c04")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/64be4d87-878c-4071-935c-dc07347d23b9")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -10091,10 +10585,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/tcmt1100/optocleny-analogovy-vystup/vishay/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2fe39855-cd51-42b1-9ee6-6d65cc2130bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOP*4.4x2.6mm*P1.27mm*")
 		(path "/29d84922-934c-41f1-8b67-b3671484ca76")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.31 1.41)
@@ -10405,10 +10912,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/bzv55b4v3-l1g/zenerove-diody-smd/taiwan-semiconductor/bzv55b4v3-l1g/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d57ac26d-ff3f-4ee8-98e7-ef6384d90ca9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D*MiniMELF*")
 		(path "/c1b59128-5677-44e7-94fd-ea98a6c9cb77")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.66 -1.11)
@@ -10700,10 +11220,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw06034k70fktabc/rezistory-smd/vishay/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c43186da-6d38-4d88-9f18-7bd58bb76910")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b66a5ae2-5a56-40be-9e20-f885fd23929c")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -10863,7 +11396,7 @@
 				)
 			)
 		)
-		(property "Value" "1uF/50V"
+		(property "Value" "1uF/10V"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "2b7bfc9b-d4d2-447c-bfaf-15093ab5cad5")
@@ -10913,10 +11446,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/vj0603g105kxqcw1bc/kondenzatory-mlcc-smd/vishay/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d683b9e-fdb6-4d65-8fe8-9a4585a0734a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fed64d51-7a53-492c-9a3b-7da3a509da53")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -11129,10 +11675,23 @@
 				)
 			)
 		)
+		(property "TME" "----"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "907facc9-fa07-44f4-8665-28a3c2555bb1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/15bf7274-467d-45a3-b767-330d7b55ab9d")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -11242,10 +11801,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw0603560rfktabc/rezistory-smd/vishay/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9995c41f-c391-4bf7-970d-9cf1211a64ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3a148f90-bf80-4c0e-a8d6-c11616aac8c8")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -11455,10 +12027,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56d2fc36-ddd0-4c55-90b8-ec370f8e083e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b63c9b73-6ebc-4999-b96a-f40e386863d0")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -11668,10 +12253,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d480f623-7e6b-4fcc-99a8-2051b98091bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fceeb96a-5b95-469e-9aa0-58d6b31f98d7")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -11881,10 +12479,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/cl10x106mo8nrnc/kondenzatory-mlcc-smd/samsung/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "191cc8de-e8d0-41d1-a0b7-13b3731c3322")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4eaa366b-af70-462b-b495-b5034f4ddce7")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -12097,10 +12708,23 @@
 				)
 			)
 		)
+		(property "TME" "----"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25ae2c13-fb6c-47ff-ba45-e173b42e52b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/43fe6057-aabf-43da-a83f-2abf810c815b")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -12210,10 +12834,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "934eff32-ee0f-4a26-953a-bf5277cf0cb0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/d7224158-5bc0-4e76-9f68-d9ebb58ea81d")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -12426,10 +13063,23 @@
 				)
 			)
 		)
+		(property "TME" "----"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4ba04a2-2cc9-4c7f-99bf-4f84ce13c28c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/b3d327e9-81fd-4461-91bb-a273d37fe430")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -12539,10 +13189,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa637fdc-448b-4d3b-b0e7-b7e439ee8b3c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/d21b63b6-b982-4114-b16a-339ce525a0df")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -12752,10 +13415,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f144098-697e-477d-8c58-903e144c2f29")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f698f33b-6a67-44fb-b63a-9d38c7ce3fd2")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -12965,10 +13641,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/cl31a106mohnnne/kondenzatory-mlcc-smd/samsung/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40d192a6-e379-4289-a7cd-1a596bbcc8e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/68a1aaab-9ea6-484d-8d67-b85e69a4df7b")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -13179,9 +13868,22 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/5-104363-2/signalove-konektory-raster-2-54mm/te-connectivity/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf23e776-36e2-45df-841a-22055bf29b23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/69a49152-9b52-407e-83af-b9fe60b9dc00")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.54 5.08)
@@ -13476,10 +14178,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/cl31a106mohnnne/kondenzatory-mlcc-smd/samsung/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ae13331-f9dc-470b-baea-d121f34c92fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5110a4dc-d2e2-4f22-8a59-09679798390d")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -13690,10 +14405,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/g5v1-5/elektromagneticke-rele-miniaturne/omron-electronic-components/g5v-1-5vdc/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "138f05d6-33b3-4af8-8cfd-b632a3ce3d3d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Relay*SPDT*Omron*G5V?1*")
 		(path "/75d32dbb-d37c-4c34-9518-24414e3ab4d9")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.4 11.4)
@@ -14065,10 +14793,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7276a227-7f89-44b3-b7f8-b3040bee7920")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/910e76ce-e8cc-4f31-bad3-d0cce1508d15")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -14278,10 +15019,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/fyls-0603urc/diody-led-smd-farebne/foryard/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "264103f4-ba8a-4282-9302-8ffb31aad3f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/5fe2da75-3afc-481f-939e-0e5133f8d8a9")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.8 -0.735)
@@ -14513,10 +15267,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/katalog/?queryPhrase=LQH5BPN220MT0L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "690675ae-cb5e-4bf8-aa98-328e3f9d1303")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/6ed35e04-49ff-4a2e-a24d-f1c50236e9fb")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.55 -2.6)
@@ -14727,10 +15494,23 @@
 				)
 			)
 		)
+		(property "TME" "----"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a94e04d5-0c19-4f9b-b3b2-59f151783d38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/96ba6ac3-442a-4f3a-b7f2-cc93df5fc2a6")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -14840,10 +15620,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/cl31a106mohnnne/kondenzatory-mlcc-smd/samsung/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cea599df-2acd-4200-b987-d0f952e35906")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fe2776d2-2fb1-404e-8738-e98390879e8c")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -15054,10 +15847,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw06034k70fktabc/rezistory-smd/vishay/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fda80cb4-818f-4354-a69f-fac739165688")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/affd4463-11e4-4488-bbc4-9763d14e9680")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -15269,10 +16075,23 @@
 				)
 			)
 		)
+		(property "TME" "----"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae77d531-0af4-4b85-b0dd-bc5127814aa6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/1fdbdefd-bb1a-45d1-8d4b-2542396aca87")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -15383,9 +16202,22 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/5-104363-2/signalove-konektory-raster-2-54mm/te-connectivity/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74cf1be5-d468-4c2e-8b81-15aa38b104b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/eb57be09-d9bd-4a71-a36c-57db1f1a04ec")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.54 5.08)
@@ -15630,7 +16462,7 @@
 				)
 			)
 		)
-		(property "Value" "1uF/50V"
+		(property "Value" "1uF/10V"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "bc9e48d0-91d6-4eaa-b641-3262939629a8")
@@ -15680,10 +16512,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/vj0603g105kxqcw1bc/kondenzatory-mlcc-smd/vishay/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f9ac8e68-c75c-418e-ae78-4afae62c699e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/e7741295-b6d1-47dc-9f07-ef6e027b2f56")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -15893,10 +16738,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/fyls-0603urc/diody-led-smd-farebne/foryard/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8973bf80-b853-4a3f-97d3-1595a1d09d0b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/fddc86da-fd62-4f3b-9974-ce176280253a")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.8 -0.735)
@@ -16128,10 +16986,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/zl262-20sg/konektory-hrebienky/connfly/ds1023-1-20s21/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "504fac9f-63cb-4f45-bf6e-3c4fc4255615")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/241e3d26-d4b9-4e6a-bc8b-efb99e0dbc69")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 -1.33)
@@ -16594,10 +17465,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/tcmt1100/optocleny-analogovy-vystup/vishay/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3d7b0a6-6f21-4d5d-9535-ea46d64ab740")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOP*4.4x2.6mm*P1.27mm*")
 		(path "/0fa42c65-e84b-41ef-b6cd-66f980828966")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.31 1.41)
@@ -16908,9 +17792,22 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/5-104363-2/signalove-konektory-raster-2-54mm/te-connectivity/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23af4086-652a-48ab-a2cf-d2bb60b6d4c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ae97b36e-c34e-4a15-81f0-c9a445ee944f")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.54 5.08)
@@ -17205,10 +18102,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8335d96b-cc6f-41c8-9cbd-73f587ffac96")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c746dcdf-6bd3-4edb-91ef-8542a7d936d8")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -17421,10 +18331,23 @@
 				)
 			)
 		)
+		(property "TME" "----"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43dd0126-c599-4e89-945d-292040a8d2f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/d7889f0c-10c8-4965-ae9f-932dda95737b")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -17534,10 +18457,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ee69f6e-1bb3-448f-b58f-37118828452c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a617c97e-2609-4b78-b995-118b3cace1f1")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -17697,7 +18633,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "4k7"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "c41a81b8-e456-49a0-92b8-55bbbfa64975")
@@ -17747,10 +18683,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw06034k70fktabc/rezistory-smd/vishay/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5395feb-dd74-422f-a11a-1556055898f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/193f6081-1654-4532-ad44-0d2891c231e4")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -17960,10 +18909,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw06034k70fktabc/rezistory-smd/vishay/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "83f31977-40d1-4d10-82e3-a1f5e1d9ced7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f2ed0893-ba2c-40bf-b617-f6fe16b81963")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -18173,10 +19135,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc897e18-9284-48fa-9d1d-99264f299e3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/dadf9590-4323-4466-90a7-02a0ebd2d08e")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -18336,7 +19311,7 @@
 				)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "GREEN"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "adbe5577-07f5-47bf-93fc-01019974c7c0")
@@ -18386,10 +19361,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/fyls-0603urc/diody-led-smd-farebne/foryard/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb12f490-0bd5-4cc3-a860-c6cef6cfafda")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/032d6250-fc43-48dc-a883-1e6dd49d6c20")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.8 -0.735)
@@ -18622,9 +19610,22 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/usb4115-03-c/konektory-usb-a-ieee1394/gct/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "49fdb92a-7470-4c02-b031-2b60ce21394a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/64b38cf2-163b-4dc3-8e34-ef3a1bf83d3c")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -5.1 -5.1)
@@ -18815,10 +19816,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/cl31a106mohnnne/kondenzatory-mlcc-smd/samsung/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07466605-5ed0-4762-ac43-740ebef2d929")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/05e5839b-bdea-4889-ad35-2c3c477d2923")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -19030,10 +20044,23 @@
 				)
 			)
 		)
+		(property "TME" "----"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41bb02fe-c4ae-4d29-a11b-5ad0ed237177")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/5e349d27-2c35-41d7-8cf3-10d03ab355b9")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -19093,7 +20120,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "560R"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "8714d0fa-e0f7-46f7-9261-35b0627e8386")
@@ -19143,10 +20170,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw0603560rfktabc/rezistory-smd/vishay/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "16d0f3bb-657e-49c5-a9c1-c0fa7107bf63")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f99fa2b7-a9ae-4f76-acab-ddee8ecb1add")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -19356,10 +20396,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d70928a-641b-4006-a9d5-6bc7ffacb8a5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/aaaa8704-6f37-4d9a-9ba1-53e6e97b5f92")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -19569,10 +20622,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4c87eda-d602-470f-9e8d-1a8b17de655e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f313234e-485a-49c5-99cd-8555e6994351")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -19782,10 +20848,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/katalog/?queryPhrase=LQH5BPN220MT0L"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "73666510-60a0-4c65-938d-212f35def638")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/e4a56f6f-b455-4de9-8332-82eb8e39acd1")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.55 2.6)
@@ -19993,10 +21072,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/smd0603-0r/rezistory-smd/royalohm/0603saj0000t5e/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b37294c-e6dc-4d6f-bc5d-73589d733485")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ca392918-4432-42f0-90ae-f43205d8f206")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -20156,7 +21248,7 @@
 				)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "GREEN"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "f4b33126-d2eb-4c81-afb6-006cb3ecf041")
@@ -20206,10 +21298,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/fyls-0603urc/diody-led-smd-farebne/foryard/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0137eb10-5015-4c8b-b4b1-46da6993cf84")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b4523e96-71c5-4452-81a3-344e94912d34")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.485 0.735)
@@ -20441,10 +21546,23 @@
 				)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8917bfd2-6dc8-4e88-9018-9e01b1e55190")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c75fe1ea-3a05-4310-b0e2-d457219c6103")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -20688,10 +21806,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/sm513-dio/univerzalne-diody-smd/diotec-semiconductor/sm513/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b9b9659f-2292-4a1b-885b-1f07a9345b5e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*MELF*")
 		(path "/fb15c258-ae5a-4ce2-90c2-e43022bc7222")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.41 1.61)
@@ -20979,10 +22111,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/sd1a477m6l011pc/elektrolyticke-kondenzatory-tht/samwha/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1de603f8-e456-4d40-a256-c95b6858cbb2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/e2b80451-d313-4979-a45f-4dbb20dd1678")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.285 2.5)
@@ -22513,10 +23659,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "78477ecf-ce1f-49f9-b7fa-364e8281a812")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b19a9648-a92f-429e-a381-77f2e6b64ad5")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -22678,7 +23838,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "30mA"
+		(property "Value" "50mA"
 			(at 0 -1.82 90)
 			(layer "B.Fab")
 			(uuid "190715d9-7056-4d79-b80b-f12677d7a2d2")
@@ -22732,10 +23892,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/sn005-60/polymerove-poistky-smd/ece/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "16a1c11c-8a93-435e-87d5-2a8c33d59734")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "*Fuse*")
 		(path "/a640af28-9cd8-4676-9e12-3954ecd5cf57")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.602064 0.91)
@@ -22898,7 +24072,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "GREEN"
 			(at 1.27 -2.96 90)
 			(layer "B.Fab")
 			(uuid "bb0c0109-3f87-45ca-b396-506994ae4d99")
@@ -22952,10 +24126,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/l-424gdt/led-tht-diody-okruhle/kingbright-electronic/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cd42b137-087e-4a86-bea1-ff92d614db77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7a1d925d-e6b2-44de-be68-096229892847")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.29 1.08)
@@ -23201,10 +24389,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/rc0603fr-0722rl/rezistory-smd/yageo/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "be38e9a2-1d67-46a9-b27e-f3bcf5b37a7d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/e316193d-e56c-49b3-90e3-0e773db8365f")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -23420,9 +24622,23 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/leb9055b-05b-2.7/elektromag-signalizatory-s-generatorom/cre-sound-electronics/leb9055b-05b-2-7-5-0-r/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bd38549c-4c05-46e8-a6bb-67d8511b6e8d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/3776dd41-b0f7-4d36-809e-0cfcc0288f34")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.8255 0.4445)
@@ -23562,9 +24778,23 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.waveshare.com/product/displays/lcd-oled/2inch-capacitive-touch-lcd.htm"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3b9a4579-a434-42e5-9200-90315ff4d7ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/a4b0567f-d0e6-4cdb-81d9-d6ab217e732d")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -15.95 -29.4)
@@ -23778,10 +25008,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "388cc83d-502a-40c5-b2e8-a57536971514")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a0ca4c2e-3bbe-4209-b969-82dd10794929")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -23997,9 +25241,23 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/zl211-20kg/konektory-hrebienky/connfly/ds1022-1-20rdf1-1/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0dbab786-ce7d-48c9-a0f9-80e17bdba41c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/ca7f405f-d5f5-4851-93c1-74b8c312e4ac")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.44 1.33)
@@ -25752,10 +27010,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/bc817-40w-dio/tranzistory-npn-smd/diotec-semiconductor/bc817-40w/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e9d9cbc7-8559-4bd3-a6ce-7c6b4f260456")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/958b367f-7ea5-4cce-9a3e-efb51e343429")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.65 1.56)
@@ -26026,10 +27298,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/l-424surdtk/led-tht-diody-okruhle/kingbright-electronic/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2c57982e-2e81-4dcc-8686-29648d96df2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/bfa26acd-207f-49c9-bd87-08c63872bada")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.29 -1.236)
@@ -26231,7 +27517,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "30mA"
+		(property "Value" "50mA"
 			(at 0 -1.82 90)
 			(layer "B.Fab")
 			(uuid "6944e869-afe7-4e0a-9765-605d65dd8b2f")
@@ -26285,10 +27571,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/sn005-60/polymerove-poistky-smd/ece/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d6a73cc2-2de0-46d4-9265-740ea5ace350")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "*Fuse*")
 		(path "/dbbdc967-4b58-41a2-81be-a655fc71d8c7")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.602064 0.91)
@@ -26505,10 +27805,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "824873ac-7bd1-4201-8b58-e502a42f23bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/d0c4bb76-438d-443c-94a9-a818e7ed45b9")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -26724,10 +28038,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5225d33e-21f1-4f87-ad47-731bed637f57")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/5ab19901-d5a4-4a78-ae85-427cf79e47d2")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -26889,7 +28217,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4k7"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "7ab30b09-e99f-4bb1-9d82-42463451666c")
@@ -26943,10 +28271,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw06034k70fktabc/rezistory-smd/vishay/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "491f9c4a-ad8b-4c43-b693-c4ce002e1f59")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ebbd94b0-63d9-4e37-b4a8-e82798368f36")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -27108,7 +28450,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "30mA"
+		(property "Value" "50mA"
 			(at 0 -1.82 90)
 			(layer "B.Fab")
 			(uuid "ed2b744a-d1d1-402c-83cd-0f5f48923e6d")
@@ -27162,10 +28504,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/sn005-60/polymerove-poistky-smd/ece/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "84f86c56-ef50-41ca-a37d-549729755151")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "*Fuse*")
 		(path "/9307c9cf-f737-4924-97c8-2c9193765b7a")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.602064 0.91)
@@ -27381,10 +28737,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9325bd7c-8d69-45d4-bb8a-3978b83fc326")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/aebb483e-d6df-40e3-bca6-c0538455e696")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -27629,10 +28999,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/sm513-dio/univerzalne-diody-smd/diotec-semiconductor/sm513/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "16700e6a-fb57-4175-ab28-7d0bf37e8f81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "D*MELF*")
 		(path "/1c32ecca-28e4-4af2-b524-3afbebb9ba8b")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.41 1.61)
@@ -27920,10 +29304,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/rc0603fr-0722rl/rezistory-smd/yageo/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "baca56d3-e7c8-44d4-b3ae-4502bf30b54d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f3cf017c-fe50-45f3-9618-6e5bc993e6d1")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -28139,10 +29537,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/ds18b20+/prevodniky-teploty/analog-devices-maxim-integrated/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b537b7bc-b540-4e3b-a2c7-105d0e20d79d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO*92*")
 		(path "/50f87ea9-7aec-4a15-8d0e-b50941f034b4")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.07 -1.85)
@@ -28377,10 +29789,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/rc0603fr-0722rl/rezistory-smd/yageo/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2bab18b7-ceab-4dec-b4bd-3fcf550be044")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f2063980-9f6e-4fc2-a37d-feac20f0bd00")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -28597,9 +30023,23 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/1437565-5/mikrospinace-tact/te-connectivity/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4cd5bb98-b3f8-4e7c-a9de-3c31d2e55f24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/66a5a03d-c6f5-4274-9194-494947ce5454")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6 -6)
@@ -28904,10 +30344,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/sd1a477m6l011pc/elektrolyticke-kondenzatory-tht/samwha/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ba6a177e-937d-4fb0-a563-8217c4b8d8cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/e1140d6b-d3cd-4d44-bab6-71ac56cd5d99")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.491 -0.402)
@@ -30438,10 +31892,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/0201wmf1001tee/rezistory-smd/royalohm/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "49db79ad-04ff-4eca-84b3-fba36ceb2048")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4bfa4630-54c6-421e-a172-8a12c2e0febb")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -30604,7 +32072,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "YELLOW"
 			(at 1.27 -2.96 90)
 			(layer "B.Fab")
 			(uuid "c6bb9ba7-cb60-44b1-a92b-fd0fac7deb79")
@@ -30658,10 +32126,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/l-424ydt/led-tht-diody-okruhle/kingbright-electronic/"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "58f18a9a-50f7-4d10-8511-79e8e99d9cae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3cfe8322-9d80-4ac5-ba93-22c8a68f74ab")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.29 1.08)
@@ -30917,10 +32399,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/rc0603fr-0722rl/rezistory-smd/yageo/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "89c0bb55-0358-4001-9ef3-93b3c6a9170a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f1765802-dd11-4e07-9bbb-97d33d414746")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -31136,10 +32632,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/rc0603fr-0722rl/rezistory-smd/yageo/"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2421c9ce-c191-4d41-96d1-4e05f6324d76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8a608f3d-2d62-4921-939d-a92ca5b7c18b")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -31301,7 +32811,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "4k7"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "b036a29a-f99c-42e6-a53e-e503a300e7ad")
@@ -31355,10 +32865,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/crcw06034k70fktabc/rezistory-smd/vishay/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5639b2fc-37b1-4c9e-aef8-6f61e715fc09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/d5c2723e-0797-4a96-9636-95f3850b387f")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -31575,9 +33099,23 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/1437565-5/mikrospinace-tact/te-connectivity/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ccd36075-9673-44e7-ad31-58ebd5b23eb8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/2e39eb3c-f37a-4191-9ac7-8b33e813287c")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6 -6)
@@ -31828,7 +33366,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "GREEN"
 			(at 1.27 -2.96 -90)
 			(layer "B.Fab")
 			(uuid "9ccf9fe8-f7b5-41e3-8a79-facd9e4467b7")
@@ -31882,10 +33420,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/l-424gdt/led-tht-diody-okruhle/kingbright-electronic/"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "318d3e63-6858-413a-877b-ba836286a9dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7ba7bc0f-2e56-48a3-bba8-bb505b6dfcb1")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.29 -1.236)
@@ -32130,10 +33682,24 @@
 				(justify mirror)
 			)
 		)
+		(property "TME" "https://www.tme.eu/sk/details/bc817-40w-dio/tranzistory-npn-smd/diotec-semiconductor/bc817-40w/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4c416a8e-1047-40c6-8243-7628d4741f12")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/2b668d7e-c0b6-4100-acb6-cd55edd4c16f")
 		(sheetname "Root")
-		(sheetfile "Rack_Display_0v1.kicad_sch")
+		(sheetfile "Rack_Display.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.65 1.56)
