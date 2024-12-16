@@ -6,7 +6,7 @@
 	(paper "A4" portrait)
 	(title_block
 		(title "Rack Display")
-		(date "2024-11-24")
+		(date "2024-12-16")
 		(rev "0v1")
 	)
 	(lib_symbols
